@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DataBase</string>
+    <string name="texto1">Creació de un comentario nuevo</string>
+    <string name="textInput1">Poner nombre al nuevo comentario</string>
+    <string name="text2">Texto del nuevo comentario</string>
+    <string name="b1">Crear</string>
+    <string name="text3">Selecciona un comentario</string>
+    <string name="text4">Ver el comentario</string>
+    <string name="bVer">Ver</string>
+    <string name="bEliminar">Eliminar</string>
+</resources>
